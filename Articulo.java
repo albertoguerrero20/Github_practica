@@ -16,7 +16,7 @@ public class Articulo
     {
         this.duracion = duracion;
         this.titulo = titulo;
-        this.loTengo = false;
-        this.comentario = "";
+        this.loTengo = true;
+        this.comentario = "Prueba para ejercicio de git";
     }
 }
