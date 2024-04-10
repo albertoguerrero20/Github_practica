@@ -31,6 +31,6 @@ public class Cuenta
     }
     
     public String toString(){
-        return "Nombre " + nombre + "   Saldo " + importe;
+        return "Nombre y prueba para el ejercicio de git y github " + nombre + "   Saldo " + importe;
     }
 }
