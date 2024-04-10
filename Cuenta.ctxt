@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Cuenta
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Cuenta\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ importe
+comment1.target=Cuenta(java.lang.String,\ int)
+comment2.params=
+comment2.target=double\ getSaldo()
+comment3.params=ingreso
+comment3.target=void\ ingresar(int)
+comment4.params=reintegro
+comment4.target=void\ reintegrar(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
